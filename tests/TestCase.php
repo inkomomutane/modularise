@@ -3,8 +3,8 @@
 namespace InkomoMutane\Modularise\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use InkomoMutane\Modularise\ModulariseServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {

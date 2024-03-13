@@ -2,9 +2,9 @@
 
 namespace InkomoMutane\Modularise;
 
+use InkomoMutane\Modularise\Commands\ModulariseCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use InkomoMutane\Modularise\Commands\ModulariseCommand;
 
 class ModulariseServiceProvider extends PackageServiceProvider
 {
