@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace InkomoMutane\Modularise\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class ModulariseCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'modularise';
 
     public $description = 'My command';
 
